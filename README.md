@@ -1,2 +1,3 @@
 # odin-recipes
-Odin Recipe Assignment
+
+Tutorial for simple HTML Page for some recipes
